@@ -1,0 +1,6 @@
+python-telegram-bot
+openpyxl
+pypdf2
+reportlab
+pandas
+telegram
